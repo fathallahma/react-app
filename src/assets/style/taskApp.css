@@ -1,0 +1,54 @@
+div.taskApp {
+   position : relative;
+   min-height: 200px;
+   width : 350px;
+   text-align : center;
+   border : 2px solid #666;
+   padding : 20px;
+   background-color : rgb(205, 92, 92);
+   margin: 0 auto;
+   box-shadow: 10px 5px 5px rgb(255, 160, 122);
+ }
+
+ div.addTask {
+   width: 350Px;
+   height: 50Px;
+ }
+
+ div.todo {
+
+ }
+
+ div.done {
+   width: 350Px;
+   height: 50Px;
+ }
+
+ div.description{
+   width: 150Px;
+   height: 20PX;
+ }
+
+ div.duration{
+   width: 30Px;
+   height: 20PX;
+ }
+
+ div.priority{
+   width: 100Px;
+   height: 20PX;
+ }
+
+ div.doneButton{
+   width: 30Px;
+   height: 20PX;
+ }
+
+ div.doneTask{
+   width: 340Px;
+   height: 35PX;
+   border: solid thin black;
+   background-color: rgb(255, 160, 122);
+   margin: auto;
+   margin-top: 10px;
+ }

@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("image1.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+header {
+  text-align: center ;
+  background-color: rgb(192, 192, 192) ;
+  padding-top: 20px ;
+  padding-bottom: 10px ;
+  border-color: rgb(205, 92, 92);
+  width: 390px;
+  margin:auto;
+  margin-bottom: 15px ;
+  border : 2px solid #666;
+  box-shadow: 10px 5px 5px rgb(255, 160, 122);
+}
+
+div{
+  display: inline-block;
+}
+h1{
+  position: relative;
+  font-family: 'Edo';
+  color:#2F4F4F;
+  text-shadow: 1px 1px 2px pink;
+}
